@@ -1,0 +1,1361 @@
+No. 29296-A Gaceta Oficial Digital, viernes 28 de mayo de 2021
+
+REPUBLICA DE PANAMA
+MINISTERIO DE LA PRESIDENCIA
+
+DECRETO pgcurive N° avs"
+de 48de our de 2021
+
+ 
+
+Que reglamenta la Ley 81 de 2019 sobre Proteccion de Datos Personales
+
+EL PRESIDENTE DE LA REPUBLICA
+en uso de sus facultades constitucionales y legales,
+
+CONSIDERANDO:
+
+Que la Constitucién Politica de la Repiblica de Panama reconoce entre sus garantias
+fundamentales la inviolabilidad de las comunicaciones privadas y el derecho que tiene toda
+persona de acceder a su informacién personal contenida en bases de datos 0 registros publicos y
+privados, y a requerir su rectificacién y protecci6n, asi como su supresién, de conformidad con lo
+previsto en la Ley;
+
+Que mediante la Ley 81 de 2019 se promulgé el régimen general de proteccién de datos personales
+con el objeto de establecer los principios, derechos, obligaciones y procedimientos que regulan la
+proteccién de datos personales de las personas naturales en !a Republica de Panama y en la misma se
+establecio, ademas, una prorroga para su entrada en vigor, efectiva a partir del 29 de marzo de 2021;
+
+Que corresponde al Organo Ejecutivo, a través del Ministerio de la Presidencia y en coordinacion
+con Autoridad Nacional de Transparencia y Acceso a la Informacion, reglamentar la citada Ley
+para facilitar su implementacién y cumplimiento por los responsables del tratamiento y custodios
+de las bases de datos;
+
+Que la Ley 81 de 2019 constituye el marco general de defensa del derecho a la proteccién de datos
+personales en la Republica de Panama y, por tanto, debe ser considerada como el estandar minimo
+de cumplimiento en relacion con la proteccién de datos personales por cualquier ley especial en la
+materia y por cualquier entidad reguladora;
+
+Que observando los estandares internacionales en materia de proteccidn de datos personales y, en
+particular, por orden cronolégico de aprobacién: las Directrices de privacidad de la OCDE de 1981,
+los Principios de Proteccién de Datos para Iberoamerica de la OEA de 1996, el Reglamento
+Europeo de Proteccion de Datos de 2016 y los Estandares de Proteccién de Datos Personales para
+los Estados Iberoamericanos, aprobados el 20 de junio de 2017, entre otros, el presente decreto
+desarrolla la Ley 81 de 2019, siguiendo estos lineamientos;
+
+Que, teniendo en cuenta el aumento de flujos transfronterizos de datos y operaciones comerciales,
+la Repiblica de Panama requiere un régimen fuerte en materia de proteccién de datos personales
+y una autoridad de control reconocible a nivel nacional;
+
+Que la Constitucién Politica dispone que es atribucién del Presidente de la Republica, con la
+participacion del ministro respectivo, reglamentar las leyes que lo requieran sin apartarse de su
+texto ni de su espiritu,
+
+DECRETA:
+
+Capitulo I
+Disposiciones gencrales
+
+Articulo 1. Objeto. Este decreto ejecutivo tiene por objeto desarrollar las disposiciones que
+regulan el régimen general de proteccién de datos personales para la Republica de Panama
+
+previstos en la Ley 8! de 26 de marzo de 2019. :
+Ar
+No. 29296-A Gaceta Oficial Digital, viernes 28 de mayo de 2021 2
+
+Las disposiciones y postulados sobre proteccion de datos personales contenidos en la Ley
+81 de 2019 y el presente decreto, son minimas y no excluyentes de otras leyes especiales sobre la
+materia, especialmente en lo relativo al tratamiento y custodia de datos.
+
+Este decreto constituye el régimen de aplicacién general a cualquier tratamiento de datos
+personales sin perjuicio de tener que observar, ademas, los requisitos afiadidos que puedan
+establecerse en leyes especiales que resulten aplicables al tratamiento de datos que se llevan a cabo
+por el responsable del tratamiento o por el custodio de la base de datos y especialmente en el caso
+de actividades reguladas.
+
+En el caso de sujetos regulados por una ley especial, siempre que esta ley contenga reglas
+relativas al tratamiento de datos personales, se tendra la Ley 81 de 2019 y el presente decreto como
+régimen general y estandar minimo de cumplimiento para garantizar la correcta proteccion de los
+datos personales. La ley especial debe regular aquellos requisitos especiales que exijan los
+tratamientos de datos que en ella se sefialan y de esta forma complementar y ampliar las previsiones
+de la Ley 81 de 2019, con Ja finalidad de que los datos personales que sean objeto de tratamiento
+en esa actividad queden debidamente protegidos.
+
+Cuando asi lo exija el sector regulado, los requerimientos de las politicas de privacidad,
+protocolos, procesos y procedimientos de tratamiento y transferencia segura establecidos por la
+Ley 81 de 2019 y este decreto, deberan ser completados para adaptarse a las exigencias de sus
+tratamientos de datos.
+
+Articulo 2. Ambito de aplicacién. La Ley 81 de 2019 y el presente decreto, resultaran aplicables
+cuando:
+1. Las bases de datos se encuentren en el territorio de la Republica de Panama y almacenen o
+conserven datos personales de nacionales 0 extranjeros;
+2. El responsable del tratamiento de los datos personales esté domiciliado en la reptiblica de
+Panama.
+3. Los tratamientos de datos cuyo origen o almacenamiento sea el territorio de la Republica
+de Panama, con las excepciones previstas en la Ley 81 de 2019; y
+4. Los tratamientos de datos realizados en el marco de una actividad comercial, por Internet
+o cualquier otro medio de comunicacién electronica o digital, conforme a la Ley 51 de
+2008, para garantizar la proteccion de los datos personales en las actividades dirigidas al
+mercado panameiio.
+
+Articulo 3. Sujetos protegidos, Quedan sujetos a proteccién los tratamientos de datos personales
+de las personas naturales, siempre que estos datos los identifiquen o los hagan identificables. Los
+derechos de las personas fallecidas en relacion con sus datos personales se rigen por las reglas
+generales de! Codigo Civil.
+
+En el caso de tratamiento de datos personales de menores de edad, se dara prioridad al
+interés superior del menor conforme a las normas de la Reptiblica de Panama y a los tratados
+internacionales existentes en la materia.
+
+Articulo 4. Definiciones. Para los efectos de este decreto, ademas de los términos contenidos en
+la Ley 81 de 2019, también regiran los siguientes:
+
+1. Autoridad de control. La Autoridad Nacional de Transparencia y Acceso a la Informacién
+(ANTAD), es el organismo de la administracién publica responsable de supervisar,
+implementar y controlar el cumplimiento de la Ley 81 de 2019 y el presente decreto, en
+todo el territorio nacional.
+
+2. Datos biométricos. Datos personales obtenidos a partir de un tratamiento técnico
+especifico, relativos a las caracteristicas fisicas, fisioldgicas o conductuales de una persona
+natural que permitan o confirmen la identificacién unica de dicha persona.
+
+3. Datos genéticos. Datos personales relativos a las caracteristicas genéticas heredadas o
+adquiridas de una persona natural que proporcionen una informacion unica sobre la
+fisiologia o la salud de esa persona, obtenidos en particular del analisis de una muestra
+biolégica de tal persona.
+
+4. Datos relativos a la salud. Datos personales relativos a la condicién fisica o mental de una
+
+persona natural, que revelen informacion sobre su estado de salud.
+4
+
+ 
+No. 29296-A Gaceta Oficial Digital, viernes 28 de mayo de 2021 3
+
+5. Derechos ARCO. Derechos irrenunciables basicos de los titulares de datos personales, ¢
+identificados como: derechos de acceso, rectificacion, cancelacién y oposicién.
+
+6.  Destinatario: La persona natural o juridica, autoridad publica, servicio u organismo al que
+se transfieran datos personales.
+
+7. Elaboracién de perfiles. Toda forma de tratamiento automatizado que utilice datos
+personales para evaluar determinados aspectos de una persona natural, y en particular para
+analizar o predecir aspectos relativos a su rendimiento profesional, situacién economica,
+salud, preferencias personales, intereses, fiabilidad, comportamiento, ubicacién o
+movimientos.
+
+8.  Exportador. Persona natural o juridica de cardcter publico o privado, domiciliado en el pais,
+que efectue transferencias de datos personales extrafronterizos, conforme a lo dispuesto en
+la Ley 81 de 2019 y el presente decreto.
+
+9. Evaluacién de impacto_en_proteccién de datos. Documentacién del responsable del
+tratamiento que contiene la descripcién de los procesos con datos personales que pueden
+generar riesgos para los derechos y deberes individuales y sociales, asi como medidas,
+salvaguardas y mecanismos de mitigacion de riesgos.
+
+10. Oficial de Proteccién de Datos Personales. Funcionario designado para atender la unidad
+de enlace.
+
+11, Regulador: Entidad del Estado encargada de fiscalizar a los sujetos de sectores regulados
+por leyes especiales.
+
+12. Violacién de ta seguridad de los datos personales. Toda infraccién a la seguridad que
+ocasione la destruccién, pérdida o alteracién accidental 0 ilicita de datos personales
+transmitidos, conservados o tratados de otra forma, o la comunicaciOn o acceso no
+autorizados a dichos datos.
+
+Seccién primera
+Principios generales para el tratamiento
+
+Articulo 5. Principios. La proteccion de datos personales se rige por los principios de lealtad,
+finalidad, proporcionalidad, veracidad y exactitud, seguridad de los datos, transparencia,
+confidencialidad, licitud y portabilidad.
+
+Articulo 6. Principio de lealtad, Los datos personales deberan recabarse sin engatio o falsedad y
+sin utilizar medios fraudulentos, desleales o ilicitos.
+
+Articulo 7. Principio de finalidad. Los responsables del tratamiento deberan recolectar datos con
+fines determinados y legitimos.
+
+Los datos no podran utilizarse posteriormente de manera incompatible o diferente con
+dichos fines. El tratamiento ulterior de los datos personales con fines de investigaciOn, estudios,
+encuestas 0 conocimientos de interés puiblico, no se considerara incompatible con los fines que
+motivaron la recogida.
+
+Los fines del tratamiento de los datos determinarin el plazo de conservacién de estos,
+transcurrido el cual el responsable del tratamiento los suprimira o eliminard de sus archivos,
+registros, bases de datos, expedientes o sistemas de informacién, 0 en su caso, los someterd a un
+procedimiento de anonimizacion. Para determinar el plazo de conservacién de los datos se acudira
+a las leyes aplicables en cada caso y a las responsabilidades de todo orden que deban ser atendidas
+por el responsable del tratamiento 0 custodio de la base de datos.
+
+En el caso de datos personales relativos a condenas por delitos, infracciones administrativas
+o faltas disciplinarias se atendera a lo dispuesto en el articulo 30 de la Ley 81 de 2019.
+
+Articulo 8. Principio de proporcionalidad. Para conocer qué datos son adecuados, pertinentes y
+minimos necesarios para la finalidad perseguida con el tratamiento de los datos, los responsables
+del tratamiento y, en su caso, los custodios de la base de datos, tomardn en cuenta el estado de la
+tecnologia, la naturaleza, ambito, contexto y fines del tratamiento.
+
+Con este fin podran realizar y documentar evaluaciones de impacto en proteccién de datos
+personales con el objeto de minimizar los datos objeto de tratamiento, conocer los riesgos que
+impliquen los tratamientos y adoptar las medidas y garantias necesarias para mitigarlos.
+
+ 
+No. 29296-A Gaceta Oficial Digital, viernes 28 de mayo de 2021 4
+
+La autoridad de control podra definir aquellos supuestos en los que es recomendable
+realizar una evaluacién de impacto y establecer las pautas o estandares a seguir en su desarrollo.
+
+Los responsables del tratamiento y los custodios de las bases de datos, adoptaran medidas
+organizativas que regulen el acceso a los datos personales en su entidad, conforme a este principio
+permitiendo el acceso a ellos inicamente a los empleados o funcionarios publicos que lo necesiten
+para el desarrollo de sus funciones y limitando el mismo a la cantidad de datos y al tiempo
+necesario para ello.
+
+Articulo 9. Principio de veracidad y exactitud. Los responsables del tratamiento adoptaran las
+medidas necesarias para mantener exactos y puestos al dia los datos personales en su posesidn, de
+tal manera que no se altere la realidad de éstos conforme se requiera para el cumplimiento de las
+finalidades que motivaron su tratamiento.
+
+Articulo 10. Principio de transparencia. Toda informacion o comunicacién al titular de los datos
+personales relativa al tratamiento de éstos deberd ser en lenguaje sencillo y claro, y mantenerlo
+informado de todos los derechos que le amparan como titular del dato, asi como la posibilidad de
+ejercer los derechos ARCO.
+
+Articulo 11. Principio de confidencialidad. Todas las personas que intervengan en el tratamiento
+de datos personales estan obligadas a guardar secreto o reserva respecto de estos, incluso cuando
+hayan finalizado su relacién con el titular o responsable del tratamiento de los datos, impidiendo
+el acceso 0 uso no autorizado.
+
+Articulo 12. Principio de licitud. Para que el tratamiento de un dato personal sea licito, debera ser
+recolectado y tratado con base en algunas de las condiciones de licitud que reconoce la Ley 81 de
+2019 y conforme a lo que se describe en la Seccién tercera de este Capitulo.
+
+Articulo 13. Principio de portabilidad. EI titular de los datos tiene derecho a obtener de parte del
+responsable del tratamiento una copia de los datos personales de manera estructurada en un
+formato generico y de uso comtn,
+
+Seccién segunda
+Requisitos de la informacion
+
+Articulo 14. Contenido de la informacion. Cuando los datos se obtengan directamente del titular,
+el responsable del tratamiento, en el momento en que estos se obtengan, le facilitaraé toda la
+informacion indicada a continuacion:
+
+1. La identidad y datos de contacto del responsable del tratamiento.
+
+2. La finalidad o finalidades del tratamiento a que se destinaran los datos personales; cuando
+el responsable del tratamiento proyecte el tratamiento posterior de datos personales para
+un fin que no sea aquel para el que se recogieron, proporcionara al interesado, con
+anterioridad a dicho tratamiento posterior, informacién sobre ese otro fin y cualquier
+informacion adicional pertinente.
+
+3. La ccondicién que legitima el tratamiento conforme a los articulos 6, 8 y 33 de la Ley 81 de
+2019. Cuando el tratamiento esté basado en el consentimiento del interesado, se le debe
+informar de su derecho a revocar el consentimiento en cualquier momento, sin que ello
+tenga efectos retroactivos; cuando el tratamiento de datos personales sea un requisito legal
+0 un requisito necesario para suscribir un contrato, asi se indicara y cuando el tratamiento
+se base en los intereses legitimos del responsable del tratamiento o de un tercero, conforme
+al articulo 8 de la Ley 81 de 2019, se detallara cuales son estos intereses.
+
+4. Los destinatarios 0 las categorias de destinatarios de los datos personales, en su caso.
+
+5.  Laintencién del responsable del tratamiento de transferir datos personales a un tercer pais,
+asi como la condicién prevista en el articulo 33 de la Ley 81 de 2019 que resulta aplicable.
+
+6. El plazo durante el cual se conservaran los datos personales 0, cuando no sea posible, los
+criterios utilizados para determinar este plazo.
+
+7. La existencia, forma y mecanismos 0 procedimientos a través de los cuales podria ejercer
+los derechos de acceso, rectificacion, cancelacion, oposicién y portabilidad.
+
+ 
+No. 29296-A Gaceta Oficial Digital, viernes 28 de mayo de 2021
+
+8. La existencia de decisiones automatizadas, incluida la claboracion de perfiles, a que se
+refiere el articulo 19 de la Ley 81 de 2019, y, al menos en tales casos, la informacién
+significativa sobre la logica aplicada, asi como la importancia y las consecuencias previstas
+de dicho tratamiento para el interesado.
+
+9. Los datos de contacto del oficial de proteccion de datos personales.
+
+Cuando los datos personales no se hayan obtenido de su titular, el responsable del
+tratamiento le facilitara, ademas de la informacion a que se refiere este articulo, la referente a la
+categoria de los datos de que se trate y la fuente de la que proceden los datos personales y, en su
+caso, si proceden de fuentes de acceso publico.
+
+Articulo 15. Plazos para facilitar la informacion. Cuando los datos sean proporcionados por el
+titular, la informacién se facilitara en el momento de la recogida de los datos.
+Cuando los datos se obtengan de otra fuente, la informacion se facilitara:
+1. Si los datos personales se utilizan para comunicarse con el titular, a mds tardar en el
+momento de la primera comunicacion.
+2. Si se comunica a otro destinatario, éste debera informar al titular en la primera
+comunicacion que le diryja.
+
+Articulo 16. Forma para facilitar la informacion. El responsable del tratamiento podra elegir la
+forma en la que va a proporcionar la informacion al titular de los datos siempre que ésta le permita
+demostrar que cumplio con la obligacién de informar.
+
+La informacion proporcionada al titular tendra que ser suficiente y facilmente accesible,
+asi como redactarse y estructurarse en un lenguaje claro, sencillo y de facil comprensién para los
+titulares a quienes va dirigida, especialmente si se trata de menores de edad. Podra utilizarse
+recursos audiovisuales, cuando sea apropiado, con el fin de proporcionar la informacién necesaria.
+
+Cuando la informacion vaya a facilitarse a través de Internet o a través de dispositivos de
+pantalla reducida, y siempre que asi lo considere el responsable del tratamiento, se podra dar
+cumplimiento al deber de informacién mediante un sistema de informacién dividida en capas. De
+esta forma la politica de privacidad y/o las condiciones de servicios accesibles, a las que se refiere
+la Ley 81 de 2019, se podran dividir en capas. En la primera capa se facilitara al afectado la
+informacién basica referente a la identidad de! responsable del tratamiento, finalidad del
+tratamiento y posibilidad de ejercer los derechos que le reconoce la Ley 81 de 2019 y se le indicara
+una direcci6n electrénica u otro medio que permita acceder de forma sencilla ¢ inmediata a la
+restante informacion.
+
+Seccién tercera
+Condiciones de licitud para el tratamiento
+
+Articulo 17. Condiciones de licitud para el tratamiento. Se podra proceder al tratamiento de los
+datos cuando se cumplan, al menos, una de las condiciones siguientes:
+
+1. Cuando el titular de los datos haya otorgado su consentimiento previo, inequivoco e
+informado por un medio que permita al responsable del tratamiento probar la trazabilidad
+de dicho consentimiento.
+
+2. Cuando el tratamiento tenga lugar en el marco de una relacién contractual en la que el
+titular de datos sea parte o se celebre en su interés.
+
+3. Cuando el tratamiento sea necesario para el cumplimiento de una obligacién legal por parte
+del responsable del tratamiento. En estos casos, la ley que recoja la obligacién debe
+disponer:
+
+La finalidad del tratamiento.
+
+La determinacién del responsable o responsables del tratamiento.
+
+Las limitaciones que rigen la licitud del tratamiento por parte del responsable.
+
+Las categorias de datos objeto de tratamiento.
+
+Los titulares de los datos afectados.
+
+Las entidades a las que se pueden comunicar los datos y los fines de la comunicacién;
+Los plazos de conservacion de los datos.
+
+mpomeae ge
+
+ 
+No. 29296-A Gaceta Oficial Digital, viernes 28 de mayo de 2021
+
+4. Cuando el tratamiento este autorizado en una ley especial o las normativas que las
+desarrollen. Estas leyes podran imponer condiciones especiales al tratamiento respetando
+lo previsto en la Ley 81 de 2019 y el presente decreto.
+
+5. Cuando el tratamiento sea necesario para proteger intereses vitales del titular de los datos
+o de otra persona natural.
+
+6. Cuando sea requerido por una entidad publica en el ejercicio de sus funciones legales, para
+la salvaguarda de un interés publico o por orden judicial.
+
+7. Cuando el tratamiento sea necesario para satisfacer el interés legitimo perseguido por cl
+responsable del tratamiento o por un tercero, siempre que prevalezcan los intereses o los
+derechos y libertades fundamentales del titular de los datos, en especial cuando sea un
+menor de edad. Para justificar el interés legitimo el responsable del tratamiento debera
+demostrar que evalud y ponderé los intereses 0 derechos involucrados y que adopto las
+medidas necesarias para mitigar los riesgos derivados del tratamiento.
+
+Esta condicién de licitud no sera aplicable al tratamiento realizado por las
+autoridades publicas en el ejercicio de sus funciones.
+
+8. Cuando se trate de datos sensibles, se atendera a las condiciones previstas en el articulo [3
+de la Ley 81 de 2019 para proceder a su transferencia a terceros.
+
+Articulo 18. Condiciones para el consentimiento. El consentimiento debera ir precedido de la
+informacion prevista en el articulo 10 del presente decreto, para cumplir las exigencias de ser
+informado e inequivoco.
+
+El consentimiento debera obtenerse de forma que permita su trazabilidad. Esto es, cuando
+el tratamiento se base en el consentimiento del interesado, el responsable del tratamiento debera
+ser capaz de demostrar que aquel consintié el tratamiento de sus datos personales. Se considera
+valida la documentacién del consentimiento, incluso por via electronica o por cualquier otro
+mecanismo, conforme al medio que se utilice en cada caso para la recogida de los datos, siempre
+que éste permita demostrar al responsable del tratamiento que el consentimiento fue otorgado.
+
+Si el consentimiento del interesado se da en el contexto de una declaracién escrita que
+también se refiera a otros asuntos, la solicitud de consentimiento se presentara de tal forma que se
+distinga claramente de los demas asuntos.
+
+El consentimiento para el tratamiento de datos de salud, asi como otros datos sensibles,
+cuando la ley que los regule lo exija, debera ser irrefutable y expreso.
+
+En el caso de tratamiento de datos de menores de edad e incapaces, el tratamiento debera
+llevarse a cabo con la autorizacion previa del acudiente, tutor o quien ejerza la guarda y crianza 0
+tutela del menor o incapaz. En estos casos, el responsable del tratamiento deberd demostrar que
+hizo todos los esfuerzos razonables para verificar esta autorizacion, teniendo en cuenta el estado
+de la tecnologia disponible en cada momento.
+
+Los datos personales de los menores de edad e€ incapaces se pueden recopilar sin
+consentimiento cuando el tratamiento sea necesario para contactar con los padres, acudiente, tutor
+0 quien ejerza la guarda y crianza o tutela del menor 0 incapaz y inicamente con esta finalidad.
+
+Articulo 19. Revocacién del consentimiento. El consentimiento podré ser revocado en cualquier
+momento. El retiro del consentimiento no afectara la licitud del tratamiento basada en el
+consentimiento previo a su revocacién, salvo las excepciones contenidas en la ley 81 de 2019 y
+cualquier otra disposicion legal aplicable.
+
+Antes de dar su consentimiento, el interesado sera informado de ello. Debera ser tan facil
+retirar el consentimiento como otorgarlo.
+
+Articulo 20. Fuentes de acceso pttblico. A los efectos de la Ley 81 de 2019, slo podran ser
+consideradas fuentes de acceso publico:
+1. Las publicaciones estatales de caracter oficial publicadas en Gaceta Oficial.
+2. Los medios de comunicaci6n.
+3. Los directorios telefénicos en los términos previstos por su normativa especifica.
+4. Las listas oficiales de profesionales mantenidas por las entidades que los agrupen en lo
+referente a nombre, titulo o profesién, actividad, direccién laboral o comercial y
+pertenencia a la entidad. Los colegios profesionales y demas entidades a las que @
+
+  
+   
+
+corresponda elaborar estos listados estarin obligados a atender los derecho Os
+REPURL,
+Se 3
+No. 29296-A Gaceta Oficial Digital, viernes 28 de mayo de 2021
+
+interesados en dejar constancia de su oposicién al uso de sus datos con fines distintos al
+
+que responde la elaboracion del citado listado.
+
+Las fuentes de acceso piiblico que se editen en forma de libro o algun otro soporte fisico,
+perderan el caracter de fuente accesible con la nueva edicién que se publique. En el caso de que se
+obtenga telematicamente una copia de la lista de profesionales en formato electrénico, ésta perderd el
+cardcter de fuente de acceso publico en el plazo de un afio, contado desde el momento de su expedicién.
+
+Los interesados tendran derecho a que la entidad responsable del mantenimiento de estos
+listados indique gratuitamente que se oponen a que sus datos personales puedan utilizarse para
+fines de mercadeo.
+
+Capitulo I
+Derechos de los titulares de datos personales
+
+Artfculo 21. Disposiciones generales sobre ejercicio de los derechos. Los derechos de los titulares
+de datos personales podran ejercerse directamente por el titular de los datos o por medio de
+representante legal. Sera nulo cualquier acto 0 convenio entre los responsables del tratamiento 0
+custodios de la base de datos y los titulares de los datos que limiten esos derechos.
+
+El responsable del tratamiento establecera protocolos sencillos, accesibles y gratuitos que
+permitan al titular de los datos ejercer sus derechos y al responsable del tratamiento dar respuesta
+en tiempo y forma.
+
+El responsable del tratamiento informara al titular de los datos sobre los medios a su
+disposicién para ejercer los derechos que le correspondan. Los medios deberan ser facilmente
+accesibles y el responsable del tratamiento no podra denegar el derecho por el solo motivo de optar
+el titular de los datos por otro medio, siempre que no suponga un coste desproporcionado para el
+responsable del tratamiento.
+
+El solicitante debera acreditar su identidad en cl momento de la solicitud, asi como los
+datos de contacto necesarios para enviarle la respuesta al ejercicio de su derecho. En el caso de
+ejercicio por medio de representante legal, deberd acompafiarse a la solicitud la documentacién
+que acredite la misma conforme al ordenamiento juridico vigente.
+
+El custodio de la base de datos podra tramitar, por cuenta del responsable del tratamiento,
+las solicitudes de ejercicio a los derechos formuladas por los afectados, si asi se establece en el
+contrato o acto juridico que les vincule.
+
+El responsable del tratamiento debera dar respuesta al ejercicio de los derechos, incluso
+cuando no obrasen datos en sus bases de datos relacionados con el solicitante. La prucba del
+cumplimiento del deber de responder a la solicitud de ejercicio de los derechos formulado por el
+afectado recaera sobre el responsable del tratamiento.
+
+Cuando las leyes aplicables a determinados tratamientos establezcan un régimen especial
+que afecte al ejercicio de los derechos, se atendera lo dispuesto en aquellas, siempre que respeten
+los requisitos que se establecen en la Ley 81 de 2019 y en este decreto.
+
+Cada derecho debera ejercitarse separadamente sin que el ejercicio de uno excluya a los demas.
+
+Articulo 22. Ejercicio de derechos de menores ¢ incapaces. Los padres, madres, acudientes,
+tutores o quienes ejerzan la guarda y crianza de menores 0 incapaces podran ejercitar en su
+nombre y representacién los derechos de acceso, rectificacién, cancelacién, oposicion,
+portabilidad o cualesquiera otros que pudieran corresponderles en el contexto de la Ley 81
+de 2019 y el presente decreto.
+
+Articulo 23. Gratuidad de las actuaciones. Seran gratuitas las actuaciones Ilevadas a cabo por el
+responsable del tratamiento para atender las solicitudes de ejercicio de estos derechos, con las
+limitaciones que este decreto establece y las que dispongan leyes especiales en su caso.
+
+Articulo 24. Ejercicio del derecho de acceso del interesado. El titular de los datos tendra derecho
+a obtener, del responsable del tratamiento, confirmacién de si se estan tratando o no datos
+personales que !e conciernen. Si en efecto los datos estin siendo tratados, el responsable del
+tratamiento le indicara lo siguiente:
+
+1. Los fines del tratamiento.
+2. Las categorias de datos personales de que se trate. \Exas
+
+ 
+No. 29296-A Gaceta Oficial Digital, viernes 28 de mayo de 2021
+
+3. Los destinatarios o las categorias de destinatarios a los que se comunicaron o seran
+comunicados los datos personales.
+
+4. El plazo previsto de conservacion de los datos personales 0, de no ser posible, los criterios
+utilizados para determinar este plazo.
+
+5. El derecho al ejercicio de la rectificacion o cancelacion de datos personales, 0 a oponerse
+a dicho tratamiento, o a la portabilidad de los datos.
+
+6. Silos datos personales no se han obtenido del interesado, cualquier informacion disponible
+sobre su origen.
+
+7. La existencia de decisiones automatizadas, incluida la elaboracion de perfiles a que se refiere
+la Ley 81 de 2019, y, al menos en tales casos, informacion significativa sobre la ldgica aplicada,
+asi como la importancia y las consecuencias previstas de dicho tratamiento para el titular.
+
+Articulo 25. Identificacion de la informacion solicitada. Cuando el responsable del tratamiento
+trate una gran cantidad de datos relativos al titular y éste ejercite su derecho de acceso sin
+especificar si se refiere a todos o a una parte de los datos, el responsable podra solicitarle, antes de
+facilitar la informacion, que el afectado especifique los datos o actividades de tratamiento a los
+que se refiere la solicitud.
+
+El responsable del tratamiento facilitara una copia de los datos personales objeto de tratamiento.
+Cuando el interesado presente {a solicitud por medios electronicos, y a menos que éste solicite que se
+facilite de otro modo, la informacién se facilitara en un formato electrénico de uso comun.
+
+El responsable podra percibir por cualquier otra copia solicitada por el interesado un canon
+razonable basado en los costes administrativos.
+
+ 
+
+Articulo 26. Ejercicio del derecho de rectificacién, Cuando el titular de los datos ejercite el
+derecho de rectificacién debera indicar en su solicitud a qué datos se refiere y la correccién que
+haya de realizarse. Debera acompaiiar la documentacién que sustente la inexactitud o el caracter
+incompleto de los datos objeto de tratamiento.
+
+El responsable del tratamicnto comunicara cualquier rectificacion de datos personales a
+cada uno de los destinatarios a los que se hayan comunicado los datos personales, salvo que sea
+imposible o exija un esfuerzo desproporcionado. El responsable informara al interesado acerca de
+dichos destinatarios, si asf 1o solicita.
+
+Articulo 27. Ejercicio del derecho de cancelacién. Cuando el titular de los datos ejercite el derecho
+de cancelacién deberd indicar en su solicitud a qué datos se refiere. Debera acompafiar, cuando sea
+preciso la documentacion que sustente la cancelacion.
+Procedera la cancelacién cuando:
+1. Los datos personales ya no sean necesarios en relacién con los fines para los que fueron
+recogidos o tratados de otro modo.
+2. El interesado retire el consentimiento en que se basa el tratamiento y este no se base en
+otro fundamento juridico.
+3. El interesado se oponga al tratamiento y no prevalezcan otros motivos legitimos para el
+tratamiento.
+4. Los datos personales hayan sido tratados ilicitamente.
+Los datos personales deban suprimirse para el cumplimiento de una obligacién legal que
+se aplique al responsable del tratamiento.
+El responsable del tratamiento comunicaré cualquier cancelacién a cada uno de los
+destinatarios a los que se hayan comunicado los datos personales, salvo que sea imposible o exija
+un esfuerzo desproporcionado. El responsable informara al interesado acerca de dichos
+destinatarios, si asi lo solicita.
+
+is
+
+Articulo 28. Excepciones al ejercicio al derecho de_cancelacion: No procedera la cancelacién
+solicitada cuando el tratamiento sea necesario:
+
+1. Para el cumplimiento de una obligacién legal que requiera el tratamiento de datos que se
+aplique al responsable del tratamiento, o para el cumplimiento de una misién realizada en
+interés ptiblico o en el ejercicio de poderes publicos conferidos al responsable.
+
+2. Por razones de interés publico en el ambito de la salud publica.
+
+ 
+No. 29296-A Gaceta Oficial Digital, viernes 28 de mayo de 2021 9
+
+3. Con fines de archivo en interés publico, fines de investigacién cientifica o histérica o fines
+estadisticos, en la medida en que et derecho de cancelacién pudiera hacer imposible u
+obstaculizar gravemente el logro de los objetivos de dicho tratamiento.
+
+4. Para la formulacién, el ejercicio o la defensa de reclamaciones.
+
+Articulo 29. Ejercicio del derecho de oposicion. El interesado tendra derecho a oponerse en
+cualquier momento, por motivos relacionados con su situacién particular, a que datos personales
+que le conciernan sean objeto de un tratamiento. El responsable del tratamiento dejara de tratar los
+datos personales, salvo que acredite motivos legitimos imperiosos para el tratamiento, que
+prevalezcan sobre los intereses, los derechos y las libertades del interesado, o para la formulacion,
+el ejercicio o la defensa de reclamaciones.
+
+Cuando el tratamiento de datos personales tenga por objeto fines de mercadeo, el interesado
+tendra derecho a oponerse en todo momento al tratamiento de los datos personales que le conciernan,
+incluida la elaboracion de perfiles en la medida en que esté relacionada con la citada actividad de
+mercadeo. En estos casos los datos personales dejaran de ser tratados para dichos fines.
+
+Cuando los datos personales se traten con fines de investigacion cientifica 0 historica o
+fines estadisticos, el interesado tendra derecho, por motivos relacionados con su situacién
+particular, a oponerse al tratamiento de datos personales que le conciernan, salvo que sea necesario
+para el cumplimiento de una misién realizada por razones de interés puiblico.
+
+Articulo 30. Ejercicio del derecho de portabilidad. El interesado tendra derecho a recibir los datos
+personales que le incumben, en un formato estructurado, genérico, de uso comin y lectura
+mecanica, bien para reutilizarlos para si mismo, o para transmitirlos a otro responsable del
+tratamiento sin que el responsable pueda impedirlo.
+Son condiciones para el ejercicio de este derecho:
+1. Que los datos los haya facilitado el titular directamente al responsable del tratamiento.
+2. Que el tratamiento esté basado en el consentimiento o en un contrato.
+3. Que sea un volumen relevante de datos y el tratamiento se efectue por medios automatizados.
+El interesado tendra derecho a que los datos personales se transmitan directamente a él 0
+que el responsable los transmita directamente a otro responsable cuando sea técnicamente posible,
+por medios seguros e interoperables.
+Quedan excluidos de este derecho los datos que deriven de otra condicion de licitud para
+el tratamiento o los que resulten de la elaboracién propia del responsable del tratamiento.
+
+Articulo 31. Limitaciones al ejercicio de los derechos. Sin perjuicio de las limitaciones indicadas,
+en los articulos anteriores, podra limitarse el ejercicio de los derechos del titular de los datos
+personales, en cualquiera de los siguientes casos:
+
+1. Cuando el tratamiento sea necesario para el cumplimiento de un objetivo de interés publico.
+
+2. Cuando el tratamiento impida o entorpezca el debido tramite dentro de un proceso
+
+administrativo o judicial o por seguridad det Estado.
+
+3. Cuando sea necesario para el ejercicio de las funciones propias de las autoridades publicas.
+
+4. Cuando sea solicitado por !as autoridades judiciales competentes para el aseguramiento del
+
+cumplimiento de la ley, con las condiciones previstas en la Ley 81 de 2019.
+
+5. Cuando el responsable del tratamiento acredite tener motivos legitimos para que el
+tratamiento prevalezca sobre los intereses, los derechos y las libertades del titular.
+Cuando el tratamiento sea necesario para el cumplimiento de una ley.
+
+Cuando los datos personales sean necesarios para el mantenimiento o cumplimiento de una
+relacién juridica o contractual. 
+xe
+
+Capitulo III
+Utilizacion de datos personales
+
+  
+
+Seccién primera
+Obligaciones del regulador, del responsable del tratamiento y del custodio de los datos
+
+Articulo 32, Obligaciones del regulador o autoridad reguladora. El regulador o autoridad ty
+reguladora de cada sector, contard con un periodo de nueve meses, a partir de la entrada en :
+No. 29296-A Gaceta Oficial Digital, viernes 28 de mayo de 2021
+
+vigencia del presente decreto, para establecer dentro de su normativa todos los protocolos,
+procesos y los procedimientos de tratamiento y transferencias segura que deban cumplir los
+sujetos regulados.
+
+Articulo 33.Responsabilidad en el tratamiento. E] responsable del tratamiento y el custodio de la
+base de datos implementaran los mecanismos necesarios para acreditar el cumplimiento de los
+principios y obligaciones establecidas en la Ley 81 de 2019 y en el presente decreto. Rendiran
+cuentas sobre el tratamiento de datos personales en su posesidn al titular de los datos y a la
+autoridad de control.
+
+Para ello, deberan elaborar una ficha técnica que contendra los protocolos, procesos y
+procedimientos de gestion y transferencia segura de los datos, que sera fiscalizado y supervisado
+por la autoridad de control.
+
+Los responsables del tratamiento y los custodios de la base de datos podran adoptar, entre
+otras, las siguientes medidas:
+
+1. Elaborar protocolos y procesos de proteccién de datos personales obligatorios y exigibles al
+interior de la organizacién del responsable del tratamiento o custodios de la base de datos.
+
+2.  Revisar periddicamente los procedimientos de gestion y transferencia segura de los datos
+personales para determinar las modificaciones que se requieran. Para ello podran establecer
+un sistema de supervisién y vigilancia interna y/o externa, incluyendo auditorias, para
+comprobar el cumplimiento de las politicas de protecci6n de datos personales.
+
+3. Cumplir con las normas 0 estandares nacionales o internacionales en materia de proteccion
+de datos personales.
+
+4. Adoptar mecanismos de autorregulacion vinculantes en materia de proteccién de datos
+personales.
+
+5.  Elaborar y mantener actualizado el registro de bases de datos a que se refiere la Ley 81 de
+2019.
+
+6.  Evaluar el impacto de los tratamientos de datos a realizar, antes de su ejecucion, para
+garantizar la proporcionalidad y minimizaci6n de datos en el tratamiento.
+
+7.  Establecer protocolos para la atencién y respuesta al ejercicio de los derechos por los
+titulares de los datos.
+
+8. Poner en practica un programa de capacitacién y actualizacién del personal sobre las
+obligaciones en materia de proteccidn de datos personales.
+
+9.  Designar a un oficial de proteccion de datos, que participe de forma adecuada y en tiempo
+oportuno, en todas las cuestiones relativas a la proteccién de datos personales.
+
+Articulo 34. Deber de confidencialidad. Los responsables del tratamiento y/o los custodios de la
+base de datos, asi como todas las personas que intervengan cn cualquier fase del tratamiento de los
+datos, estaran sujetas al deber de secreto o confidencialidad, respecto de los datos personales objeto
+de tratamiento a los que tengan acceso por razén de sus funciones. Para tal fin, garantizaran que
+las personas autorizadas para tratar los datos personales se hayan comprometido a respetar la
+confidencialidad y asi lo reflejaran en los protocolos de tratamiento de datos de sus entidades
+publicas y privadas.
+
+Esta obligacién sera complementaria al secreto profesional de conformidad con la ley
+aplicable. Se aplicara durante todo el tiempo que dure el tratamiento y se mantendra aun cuando
+hubiese finalizado la relacion del empleado o funcionario con el responsable del tratamiento o el
+custodio de la base de datos.
+
+Articulo 35. Registro de las bases de datos. El registro de las bases de datos transferidas a terceros
+constara por escrito, por cualquier medio, inclusive por medios electrénicos.
+Respecto de cada base de datos se dejard constancia en dicho registro de:
+!, La identificacion de la base de datos.
+2. La identificacién del responsable de la base de datos.
+3. La naturaleza de los datos personales que contiene, esto es, la descripcidn del universo de
+personas que comprende la base de datos.
+4. Las condiciones de legitimaci6n aplicables.
+La finalidad o finalidades del tratamiento.
+6. Los procedimientos de obtencién y tratamiento de los datos.
+
+uw
+
+ 
+
+10
+
+ 
+No. 29296-A Gaceta Oficial Digital, viernes 28 de mayo de 2021
+
+7. El plazo de conservacidn de los datos.
+El destino de los datos y las personas naturales 0 juridicas a las que pueden ser transferidos.
+9. Las medidas técnicas y organizativas de seguridad adoptadas, al menos un resumen de ellas
+o la referencia a la politica o protocolo donde se describen.
+10. Los protocolos aplicables a la base de datos, tales como los referentes a la atencion y
+respuesta del ejercicio de los derechos por los titulares de los datos.
+11. La descripcién técnica de la base de datos.
+12. La identificacion y periodo de todas las personas que han ingresado a los datos personales
+dentro de los quince dias habiles desde que se inicie la actividad.
+Los responsables del tratamiento y/o los custodios de la base de datos mantendran cl
+registro actualizado, de forma que responda con veracidad a la realidad de los tratamientos que se
+lleven a cabo. Estara a disposicion de la autoridad de control cuando ésta lo requiera.
+
+=
+
+Articulo 36. Seguridad de los datos personales. Las medidas técnicas y organizativas deben ser
+suficientes para garantizar la confidencialidad, integridad, disponibilidad y resiliencia permanente
+de los sistemas y servicios de tratamiento de los datos personales. Para ello se tomara como
+referencia las normas o estandares nacionales e internacionales en !a materia, asi como también
+los mecanismos de autorregulacién vinculantes o cualquier otro mecanismo que se determine
+adecuado para tales fines.
+
+Para determinar estas medidas, se consideraran los siguientes factores:
+
+1. El riesgo para los derechos y libertades de los titulares, en particular, por el valor potencial
+cuantitativo y cualitativo que pudieran tener los datos personales tratados para una tercera
+persona no autorizada para su posesion.
+
+El estado de la tecnologia.
+
+Los costos para la aplicacién de las medidas.
+
+La naturaleza de los datos personales tratados, en especial, si se trata de datos personales sensibles.
+El alcance, contexto y las finalidades del tratamiento.
+
+Las transferencias internacionales de datos personales que se realicen o pretendan realizar.
+El namero de los titulares afectados.
+
+Las posibles consecuencias que se derivarian de una violacién de seguridad de los datos
+para los titulares;
+
+9. Las violaciones de seguridad de los datos previas. ocurridas en el tratamiento de datos
+
+personales.
+
+Una vez analizados los riesgos del tratamiento y determinadas las medidas a adoptar, el
+responsable del tratamiento y/o el custodio de la base de datos Ilevard a cabo una serie de acciones
+que garanticen el establecimiento, implementacién, operacién, monitoreo, revision,
+mantenimiento y mejora continua de las medidas de seguridad aplicables al tratamiento de los
+datos personales, de manera periddica.
+
+La autoridad de contro! podra establecer normas técnicas minimas para hacer aplicables
+las disposiciones del contenido de este articulo, teniendo en cuenta la naturaleza de la informacién
+procesada, las caracteristicas especificas del tratamicnto y el estado actual de la tecnologia,
+especialmente dirigidas a pequefias y medianas empresas.
+
+ge Ss Be oe
+
+Articulo 37. Notificaci6n de violaciones de la seguridad de los datos personales. Cuando el
+responsable del tratamiento tenga conocimiento de una violacién de seguridad, entendida ésta
+
+como cualquier daiio, pérdida, alteracién, destruccién, acceso, y en general, cualquier uso ilicito o
+no autorizado de los datos personales, aun cuando ocurra de manera accidental, en cualquier fase
+del tratamiento y que represente un riesgo para la proteccién de los datos personales, notificara de
+inmediato dicho incidente a la autoridad de control y a los titulares afectados.
+El custodio de la base de datos deberd informar al responsable del tratamiento de manera
+inmediata cuando tenga conocimiento de una violacion de seguridad.
+La notificacion que realice el responsable del tratamiento a los titulares afectados estara
+redactada en un lenguaje claro y sencillo.
+La notificacién se realizara en el plazo de las setenta y dos horas a partir de que se conozca
+el incidente y contendra, al menos, la siguiente informacién:
+1. La naturaleza del incidente.
+2. Los datos personales comprometidos.
+
+ 
+
+ 
+
+11
+No. 29296-A Gaceta Oficial Digital, viernes 28 de mayo de 2021
+
+3. Las acciones correctivas realizadas de forma inmediata.
+
+4. Las recomendaciones al titular sobre las medidas que este pueda adoptar para proteger sus
+intereses.
+
+5. Los medios disponibles al titular para obtener mayor informacién al respecto.
+
+Articule 38. Documentacion de las violaciones de_la seguridad de los datos personales. El
+responsable del tratamiento documentara toda violacion de seguridad de los datos personales
+ocurrida en cualquier fase del tratamiento, identificando, como minimo, la siguiente informacién y
+conservandola a disposicion de la autoridad de control:
+
+1. La fecha en que ocurrio.
+
+2. El motivo de la violacion.
+
+3. Los hechos relacionados con ella y sus efectos
+
+4. Las medidas correctivas implementadas de forma inmediata y definitiva.
+
+La autoridad de control verificara la gravedad del incidente y para salvaguardar los
+derechos de los titulares, podra ordenar que el responsable del tratamiento adopte medidas, tales
+como la amplia difusion del hecho en los medios de comunicacioén y/o medidas para revertir o
+mitigar los efectos del incidente.
+
+Cuando la violacién de seguridad tenga lugar en redes publicas de comunicacién, se
+atendera también a lo que se establezca en las normas especiales sobre telecomunicaciones,
+relacionadas con la seguridad publica y la defensa nacional.
+
+Seccién segunda
+Medidas de responsabilidad para el cumplimiento
+
+Articulo 39. Mecanismos de autorregulacién_vinculante. La autoridad de contro! impulsaré la
+elaboracian de mecanismos de autorregulacién vinculantes con el objeto de facilitar el
+cumplimiento de la Ley 81 de 2019 y este decreto a los responsables del tratamiento y custodios
+de la base de datos, tomando en cuenta las caracteristicas especificas de los distintos sectores de
+la actividad productiva o grupos economicos de empresas.
+
+Quienes promuevan la adopcion de un mecanismo de autorregulacién vinculante deberan
+someterlo a la aprobacion de la autoridad de control quien debera resolver en un plazo de cuarenta
+y cinco dias habiles.
+
+Articulo 40. Contenido del _mecanismo_de autorregulacion _vinculante. En el contenido de los
+mecanismos de autorregulacién vinculante debe quedar consignado:
+El cumplimiento de los principios de tratamiento.
+Los protocolos de informacion y transparencia con el titular de los datos.
+Los procedimientos de recogida, tratamiento, transferencia y conservacién de los datos.
+Las condiciones de cumplimiento para jas transferencias internacionales de datos.
+La atencion y respuesta al ejercicio de los derechos por los titulares de los datos.
+Las medidas técnicas y organizativas dirigidas a garantizar la seguridad en el tratamiento
+y transferencia de los datos.
+La adhesion a un mecanismo de autorregulacion vinculante supondra una garantia de
+cumplimiento para el custodio de la base de datos y para las transferencias internacionales de datos
+a los efectos previstos en la Ley 81 de 2019.
+
+Una vez aprobados seran publicados en la Gaceta Oficial.
+
+op Be Rl
+
+Articulo 41. Evaluaciones de impacto relativas a la proteccion de datos. Atendiendo a la gravedad del
+riesgo que presente el tratamiento para los datos personales, asi como a la novedad de la tecnologia
+utilizada, la Autoridad de Control, podra ordenar que se presente un informe de evaluacién de impacto
+en proteccién de datos.
+
+El informe debe contener, como minimo, una descripcidn de los tipos de datos recopilados, la
+metodologia utilizada para la recopilacién y garantia de seguridad de la informacién, y el andlisis del
+responsable en relacién con medidas, salvaguardas y mecanismos de mitigacion de riesgos adoptados.
+
+La autoridad de control podra solicitar a las entidades que publiquen los informes de
+evaluacién de impacto en proteccién de datos que Ileven a cabo y sugerirles la adopcién de normas
+y buenas practicas para el tratamiento de datos personales. es ai
+
+12
+
+ 
+No. 29296-A Gaceta Oficial Digital, viernes 28 de mayo de 2021 13
+
+Articulo 42. Oficial de proteccién de datos. El oficial de informaci6n, que desarrolla la ley 33 de
+2013, sera también para los efectos de la ley 81 de 2019, y el presente decreto, el oficial de
+proteccion de datos personales, para el sector publico.
+
+Las entidades privadas, podran designar un oficial de proteccién de datos, que podra ser
+personal laboral 0 profesional con contrato de servicios, suscrito con el responsable del tratamiento
+o el custodio de la base de datos.
+
+La designacién de un Oficial de Proteccién de Datos Personales para el sector privado no
+es obligatoria, no obstante, si fuera el caso, la autoridad de control la tomard en cuenta como
+criterio para la graduacion de las sanciones.
+
+Articulo 43. Perfil del_oficial de proteccién de datos. Para ser oficial de proteccion de datos se
+requiere una experiencia profesional previa en la materia y el conocimiento del sector de actividad
+de la entidad publica o privada en la que ejercera sus funciones.
+
+La designacién del oficial de proteccién de datos personales se estimara valida por parte
+de la autoridad de control, sélo cuando el responsable del tratamiento o el custodio de la base de
+datos lo notifique formalmente y de manera expresa. Lo mismo ocurrird en el caso de que dicha
+designacién sea revocada.
+
+La autoridad de control, llevard un registro de los oficiales de proteccién de datos y podra
+organizar capacitaciones dirigidas a fortalecer sus funciones.
+
+Articulo 44, Desempefio y funciones del oficial de proteccién de datos. El oficial de proteccién
+de datos desempefiaré sus funciones con independencia, siendo obligacién del responsable del
+
+tratamiento o del custodio de la base de datos garantizar esta independencia y evitar cualquier
+conflicto de interés. Debe tener una interlocucién directa con la direccién u organo de toma de
+decisién de la entidad a la que representa en esta materia y se le deberan proporcionar los medios
+necesarios para que pueda cumplir su mision.
+
+Las funciones principales del oficial de proteccién de datos son:
+
+1. Participar en tiempo y forma en las cuestiones referidas a la proteccién de datos personales.
+
+2. Informar y asesorar al responsable del tratamiento 0 al custodio de la base de datos en las
+cuestiones relacionadas con el cumplimiento de la Ley 81 de 2019, del presente decreto 0
+de cualquier disposicion legal aplicable en cada caso.
+
+3. Supervisar el cumplimiento de la normativa. Para ello podra examinar, a solicitud del
+responsable del tratamiento o del custodio de la base de datos o por iniciativa propia,
+tratamientos de datos personales que se estén Ilevando a cabo y realizar recomendaciones
+para la adopcion de medidas correctoras necesarias cuando los tratamientos analizados no
+sean conformes con !a normativa aplicable.
+
+4. Promover la capacitacién de las personas que asuman tareas relacionadas con el
+
+tratamiento de los datos personales.
+
+Cooperar con la autoridad de control.
+
+Ser la unidad de enlace con la autoridad de control.
+
+Asesorar al responsable del tratamiento 0 al custodio de la base de datos en la respuesta a
+
+los requerimientos u observaciones formalmente notificados por la autoridad de control.
+
+8. Ser la unidad de enlace con los titulares de los datos para las cuestiones relativas al
+tratamiento de los datos y a sus derechos.
+
+Sy
+
+Articulo 45. Limite de la responsabilidad del oficial de proteccién de datos personales. El oficial
+de proteccién de datos personales no tendra la consideracién de responsable del tratamiento 0
+
+custodio de la base de datos por prestar sus servicios en la entidad correspondiente.
+
+Secci6n tercera
+Relaciones del responsable del tratamiento con terceros
+
+Articulo 46. Solicitud de transferencia de datos personales. La solicitud de transferencias de datos
+sera documentada. Para ello, el responsable del tratamiento que transfiere y el que recibe, debera
+dejar constancia de la solicitud y de la recepcién de los datos trasferidos, conforme a las
+obligaciones que a cada uno le corresponden en la Ley 8] de 2019 y el presente decreto.
+
+ 
+No. 29296-A Gaceta Oficial Digital, viernes 28 de mayo de 2021
+
+En el caso de las solicitudes de transferencia de datos personales por las autoridades
+judiciales competentes, sera necesario que la solicitud cumpla con el principio de proporcionalidad
+y se limite a los minimos datos personales que sean necesarios para conocer del cumplimiento de
+la ley que se este conociendo.
+
+Articulo 47. Contrato de custodio de la base de datos. El responsable del tratamiento elegira
+unicamente un custodio de la base de datos que ofrezca garantias suficientes para aplicar medidas
+técnicas y organizativas apropiadas, de manera que el tratamiento sea conforme con los requisitos
+de la Ley 81 de 2019, de! presente decreto y se garantice la proteccién de los derechos del titular
+de los datos.
+
+Se entenderan por garantias suficientes, entre otras, contar con un mecanismo de
+autorregulacion vinculante; haber designado un oficial de proteccién de datos; contar con una
+certificacién en materia de seguridad de los datos personales o haberse sometido a una auditoria
+de cumplimiento por parte del responsable del tratamiento.
+
+El responsable del tratamiento y el custodio de la base de datos dejaran constancia por
+escrito o por cualquier medio admisible como prueba, inclusive por medios electrénicos, el
+contenido del mandato que implique tratamiento de datos por cuenta del responsable del
+tratamiento.
+
+Articulo 48. Contenido del contrato de custodio de _la base de datos. Se estipularan, entre otras,
+las siguientes condiciones:
+
+1. El tratamiento de !os datos personales conforme a las instrucciones, debidamente
+documentadas, del responsable del tratamiento.
+
+2.  Implementar las medidas de seguridad conforme a los instrumentos juridicos aplicables.
+
+3. La obligacion de informar al responsable del tratamiento cuando ocurra una violacion de
+la seguridad de los datos personales que trata segtin sus instrucciones.
+
+4. La confidencialidad respecto de los datos personales tratados.
+
+5. La prohibicién de transferir datos personales, salvo que el responsable lo solicite o la
+transferencia derive de una subcontratacién autorizada por el responsable de! tratamiento.
+
+6. La informacién que el custodio deba poner a disposicion del responsable para que éste
+pueda acreditar el cumplimiento de sus obligaciones.
+
+7. La colaboracién con el responsable del tratamiento en todo lo relativo a garantizar el
+cumplimiento, en particular, en cuanto a la atencién y respuesta al ejercicio de los derechos.
+
+8. La eliminacién, devolucién o comunicaci6n, al responsable del tratamiento o a un nuevo
+custodio de la base de datos designado por el responsable del tratamiento, los datos
+personales objeto de tratamiento, una vez cumplida la relacion juridica con el responsable
+del tratamiento, excepto que una ley exija la conservacion de los datos personales. En este
+caso, los datos seran devueltos al responsable del tratamiento que garantizara su
+conservacion por el tiempo establecido en la Ley 81 de 2019 o en otras leyes especiales.
+
+Articulo 49. Responsabilidad del custodio de la base de datos. El custodio de la base de datos no
+recurrira a otro custodio, sin la autorizaci6n previa por escrito, especifica o general, del responsable
+del tratamiento. En este ultimo caso, el custodio de la base de datos informara al responsable del
+tratamiento de cualquier cambio previsto en la incorporacién o sustitucién de otros custodios,
+dandole asi la oportunidad de oponerse a dichos cambios.
+
+Cuando un custodio de la base de datos recurra a otro custodio para Mevar a cabo
+determinadas actividades de tratamiento por cuenta del responsable del tratamiento, se impondran
+a este otro custodio las mismas obligaciones de proteccién de datos personales que las estipuladas
+entre el responsable y el custodio inicial. Se dejara constancia por escrito, por cualquier medio de
+prueba admisible. Si ese otro custodio incumple sus obligaciones de proteccién de datos
+personales, el custodio inicial de la base de datos inicial seguira siendo plenamente responsable
+ante el responsable del tratamiento por lo que respecta al cumplimiento de las obligaciones.
+
+Articulo 50. Contratos de responsabilidad solidaria. Cuando la base de datos sea alimentada por
+
+dos o mas responsables que determinen conjuntamente los objetivos y los medios del tratamiento
+
+seran considerados, responsables solidarios del tratamiento. Los responsables solidarios (oh)
+ys
+
+ 
+No. 29296-A Gaceta Oficial Digital, viernes 28 de mayo de 2021
+
+cumplimiento de fas obligaciones impuestas por la Ley 81 de 2019 y el presente decreto, en
+particular en cuanto al ejercicio de los derechos del titular y a sus respectivas obligaciones de
+suministro de informacién a que se refiere el articulo 10 del presente decreto, salvo, y en la medida
+en que, sus responsabilidades respectivas se rijan por la ley que les sea aplicable. Dicho acuerdo
+podra designar un punto de contacto para los titulares de los datos.
+
+El acuerdo indicado en este articulo establecerd debidamente las funciones y relaciones
+respectivas de los responsables solidarios en relacién con los titulares de los datos. Se pondran a
+disposici6n de los titulares de los datos los aspectos esenciales del acuerdo.
+
+Indistintamente de! acuerdo en la determinacion de los objetivos y los medios del
+tratamiento, los titulares de los datos personales podran ejercer los derechos que se les reconoce
+en la Ley 81 de 2019 frente a, y en contra de, cada uno de los responsables del tratamiento.
+
+Seccién cuarta
+Transferencias extrafronterizas de datos
+
+Articulo 51. Condiciones para las transferencias extrafronterizas de datos. Los datos objeto de
+tratamiento podran ser transferidos a otro pais siempre que se redna alguna de las condiciones
+siguientes:
+
+1. Para paises u organizaciones internacionales que brindan un grado de proteccién de datos
+personales equivalente o superior al previsto en la Ley 81 de 2019 y el presente decreto;
+
+2. Cuando el responsable ofrece y prueba garantias adecuadas de cumplimiento de los
+principios, los derechos del titular y el regimen de proteccién de datos personales previsto
+en la Ley 81 de 2019 y el presente decreto.
+
+3. Consentimiento del titular de los datos
+
+4. Necesaria para la prevencién o diagndéstico médico, la prestacién de asistencia sanitaria,
+tratamiento médico o la gestién de servicios sanitarios.
+
+5. Necesaria para la salvaguarda del interés publico o para la representacion legal del titular
+de los datos personales o administraci6n de justicia.
+
+6. Necesaria para el reconocimiento, ejercicio o defensa de un derecho en un proceso judicial,
+o en casos de colaboracién judicial internacional.
+
+7. Necesaria para el mantenimiento o cumplimiento de una relacion juridica entre el
+responsable del tratamiento y el titular de los datos.
+
+8. Que sea requerida para concretar transferencias bancarias o bursatiles en lo relativo a las
+transacciones respectivas y conforme a la legislacion que les resulte aplicable.
+
+9. Que tenga por objeto la cooperacién internacional entre organismos de inteligencia para la
+lucha contra el crimen organizado, el terrorismo, el lavado de activos, los delitos
+informaticos, la pornografia infantil y el narcotrafico.
+
+10. Cuando concurra alguna de las demas condiciones previstas en la Ley 81 de 2019.
+
+Articulo 52. Nivel de proteccién_equivalente_o superior. Para evaluar el cumplimento de la
+condici6n que establece el numeral | del articulo anterior, la autoridad de control, tomara en cuenta
+los criterios siguientes:
+1. El respeto a los derechos humanos y las libertades fundamentales.
+2. Las normas generales y sectoriales de la legislacion vigente en el pais de destino o en la
+organizacion internacional o supranacional;
+3. La existencia y el funcionamiento efectivo de una o varias autoridades de control
+independientes en el pais receptor o a las cuales este sujeta una organizacion internacional
+o supranacional, con la responsabilidad de garantizar y hacer cumplir las normas en materia
+de proteccién de datos personales, incluidos poderes de ejecucién adecuados, de asistir y
+asesorar a los interesados en el ejercicio de sus derechos, y
+4. Los compromisos internacionales asumidos por el pais receptor u organizacion internacional o
+supranacional de que se trate, u otras obligaciones derivadas de acuerdos o instrumentos
+juridicamente vinculantes, asi como de su participacion en sistemas multilaterales o regionales,
+en particular en relacion con la proteccion de los datos personales.
+La autoridad de control podra publicar el listado de destinos que retinan estas condiciones.
+
+ 
+
+15
+No. 29296-A Gaceta Oficial Digital, viernes 28 de mayo de 2021
+
+Articulo 53. Garantias adecuadas. Son garantias adecuadas para la trasferencia de datos personales
+extrafronterizos los siguientes:
+
+1. Las cldusulas contractuales suscritas entre el exportador y el destinatario que ofrezcan
+garantias suficientes y que permita demostrar el alcance del tratamiento de los datos
+personales, las obligaciones y responsabilidades asumidas por las partes y los derechos de
+los titulares.
+
+2. Los modelos de cléusulas contractuales que valide la autoridad de control para ser
+utilizadas por exportador y destinatario como garantia de la transferencia.
+
+3. Los mecanismos de autorregulacién vinculante convenidos entre el exportador y el
+destinatario y aprobado por la autoridad de control o reconocida por ésta, siempre y cuando
+éstos sean acordes con las disposiciones previstas en la Ley 81 de 2019 y el presente
+decreto. La autoridad de control podra promulgar el listado de mecanismos de
+autorregulacién vinculantes que se reconocen a estos efectos.
+
+4. Si el exportador y el destinatario pertenecen al mismo grupo econdémico y los tratamientos
+queden sujetos a unas normas corporativas que les vinculen.
+
+Capitulo [V
+Autoridad de control
+
+Articulo 54. Autoridad de control. La Autoridad Nacional de Transparencia y de Acceso a la
+Informacion, a través de la Direccién de Proteccién de Datos Personales, es el organismo rector
+en materia de proteccién de datos personales. Contara con el apoyo de la Autoridad Nacional para
+la Innovacién Gubernamental, cuando se trate de aspectos relacionados con las Tecnologias de la
+Informaci6n y las Comunicaciones.
+
+La Direccién de Proteccién de Datos Personales, resolvera, las quejas y peticiones
+presentadas a la Autoridad de Control. Sus decisiones pueden ser impugnadas mediante recurso
+de reconsideracion ante la misma o de apelacidn que se interpondra ante el Director General de la
+Autoridad Nacional de Transparencia y Acceso a la Informacién.
+
+Articulo 55. Composicién de la Direccién de Proteccién de Datos Personales. La Direccion de
+Proteccién de Datos Personales debera estar dotada de perfiles de nivel asesor y de nivel técnico
+
+para el desempefio de sus funciones.
+
+Articulo 56. Miembros de la Direccién de Proteccién de Datos Personales. Formaran parte de la
+Direccion de Proteccién de Datos Personales los servidores ptiblicos que la Direccién General de
+autoridad de control designe.
+
+Cada miembro de la Direccién de Proteccién de Datos Personales poseera la titulacion, la
+experiencia, la idoneidad y las aptitudes, en particular en el ambito de la proteccién de datos
+personales, necesarias para el cumplimiento de las atribuciones y el ejercicio de las facultades
+descritas para su puesto.
+
+Los servidores ptiblicos asignados a la Direccién de Proteccién de Datos Personales
+desempefiaran sus funciones conforme al deber de confidencialidad.
+
+ 
+
+Seccion primera
+Designacion y composicién
+
+Articulo 57. Atribuciones y facultades de la autoridad de control. La Autoridad Nacional de
+Transparencia y Acceso a la Informacion, como autoridad de control, tiene las siguientes
+atribuciones y facultades, que seran ejercidas por la Direccion General:
+
+1. Velar por la debida reserva y proteccién de los datos personales en poder del Estado 0 de
+las entidades privadas.
+
+2. Promover la sensibilizacién de responsables del tratamiento y custodios de las bases de
+datos sobre las obligaciones que les incumben en la materia. Para ello podra realizar,
+directamente o a través de terceros, actividades de capacitaci6n de servidores publicos en
+materia de proteccidn de datos personales. Igualmente podra promover capacitaciones para
+responsables y custodios del tratamiento del sector privado con el objetivo de contribuir a
+
+  
+
+@
+
+16
+No. 29296-A Gaceta Oficial Digital, viernes 28 de mayo de 2021 17
+
+la difusion y conocimiento de la normativa aplicable y de su interpretacion. A tal fin podra
+celebrar convenios con entidades reguladoras, empresas y sectores de actividad.
+
+3. La sensibilizacién del ptiblico para la comprensién de los riesgos, normas, garantias y
+derechos en relacion con el tratamiento de sus datos personales. A tal fin, podra recibir
+informes, recomendaciones, observaciones y sugerencias que aporten los ciudadanos o la
+sociedad civil relacionadas con la proteccion de los datos personales y atenderlos e
+impulsarlos en las entidades involucradas para su atencion.
+
+4. Asesorar a las entidades del Estado sobre las medidas legislativas y administrativas
+relativas a la proteccion de los derechos y libertades de las personas naturales con respecto
+al tratamiento de datos personales; a tal fin emitira dictamenes sobre cualquier asunto
+relacionado con la proteccion de los datos personales, pudiendo llevar a cabo una previa
+evaluacién de impacto en proteccidn de datos cuando se requiera para garantizar la
+proporcionalidad y minimizacién de los datos personales previstas en dichas medidas
+legislativas y administrativas.
+
+5.  Solicitar el apoyo de la Autoridad Nacional para la Innovacion Gubernamental, cuando se
+trate de aspectos relacionados a las tecnologias de la informacion y la comunicaci6n.
+Estas atribuciones y facultades podran ser delegadas a la Direccién de Proteccién de Datos
+
+Personales.
+
+Articulo 58. Atribuciones y facultades de la Direccion de Proteccién de Datos Personales. Sin
+perjuicio de las atribuciones y facultades que le pudiera delegar la Direccién General,
+conforme al articulo anterior del presente decreto, la Direccién de Proteccién de Datos
+Personales tiene las siguientes:
+
+1. | Fiscalizar y supervisar:
+
+a. Realizar evaluaciones, informes y andlisis de procedimientos en los que se realicen
+tratamientos de datos personales a todos los responsables o custodios del
+tratamiento de los datos para lo cual podra solicitarles, a través del oficial de
+proteccion de datos personales, informacién, documentacion y certificaciones de
+sus bases de datos, las cuales no podran ser negadas; adoptar modelos de clausulas
+contractuales que, conforme al articulo 33 de la Ley 81 de 2019, constituyan una
+condicién de licitud de las transferencias de datos, intra y extrafronterizas.
+
+b. Aprobar mecanismos de autorregulacién vinculantes de conformidad con lo
+dispuesto en el articulo 33 de la Ley 81 de 2019 y en el articulo 38 del presente
+decreto
+
+c. Llevar a cabo inspecciones sectoriales, por iniciativa propia o a peticion de terceros,
+que le permitiran evaluar el cumplimiento de la Ley 81 de 2019 y el presente
+decreto. La autoridad de control podra apoyarse en la colaboracion de las entidades
+reguladoras del sector de actividad, en su caso. Y, en todo caso, con el apoyo de la
+Autoridad Nacional para la Innovacién Gubernamental, cuando se trate de aspectos
+relacionados con las Tecnologias de la Informacién y la Comunicacion.
+
+d. Previa solicitud, facilitar informacién a cualquier interesado en relacion con el
+ejercicio de sus derechos reconocidos en el articulo 15 de la Ley 81 de 2019.
+
+2. Sancionar:
+
+a. Al responsable del tratamiento, asi como al custodio de la base de datos por las
+infracciones de la Ley 81 de 2019.
+
+b. Enel caso de faltas leves, la citacién tendra por objeto que el responsable o custodio
+exponga los motivos del incumplimiento. Una vez analizados los motivos, la
+autoridad de control podra darle un plazo hasta de quince dias habiles para que le
+sea remitido lo requerido.
+
+c. Sancionar a todo responsable del tratamiento, asi como al custodio de la base de
+datos con una multa aplicando los criterios de graduacién previstos en el presente
+decreto.
+
+d. En el caso de faltas muy graves, la opinién formal del Consejo de Proteccion de
+Datos Personales sera orientativa y no tendra caracter vinculante.
+
+e. Ordenar al responsable o encargado del tratamiento que atiendan las solicitudes de
+ejercicio de los derechos del titular de los datos reconocidos en el articulo 15 de la
+
+Ley 81 de 2019.
+
+  
+No. 29296-A Gaceta Oficial Digital, viernes 28 de mayo de 2021
+
+Seccién Segunda
+Poderes correctivos
+
+Articulo 59. Responsables. Los responsables del tratamiento y/o los custodios de las bases de
+datos son responsables del cumplimiento y quedan sujetos a la fiscalizacidn y supervision de la
+autoridad de control a través de la Direccion de Proteccion de Datos Personales.
+
+Articulo 60. Procedimiento en _caso de vulneracion de la normativa de proteccién de datos
+personales. El procedimiento administrativo sancionador se regira por las normas generales
+previstas en la Ley 38 de 2000 y las que resulten aplicables en su caso.
+
+Articule 61. Publicidad de las sanciones. Ejecutoriada la sancion impuesta a los responsables del
+tratamiento o custodios de !a base de datos, la autoridad de control podra poner en conocimiento
+de la opinién publica, por cualquier medio, el contenido de sus resoluciones, cuando lo considere
+util y oportuno para informar sobre una practica irregular y falta de cooperacion.
+
+Articule 62. Criterios de graduacion de las sanciones. Las sanciones previstas en los numerales 2 y 3 del
+articulo 43 de la Ley 81 de 2019 se aplicaran teniendo en cuenta los criterios de graduacién siguientes:
+1. La intencionalidad.
+2. La reincidencia, por comision de infracciones de la misma naturaleza, sancionadas
+mediante resolucién en firme.
+
+La naturaleza y cuantia de los perjuicios causados.
+
+El plazo de tiempo durante el que se haya venido cometiendo la infraccion.
+
+El beneficio que haya reportado al infractor la comision de la infracci6n.
+
+El volumen de la facturaci6n a que afecte la infraccién cometida.
+
+La vinculacién de la actividad del infractor con la realizacién de tratamientos de datos
+
+personales.
+
+8. La posibilidad de que la conducta del afectado hubiera podido inducir a la comisién de la
+infraccion.
+
+9. Laafectacién a los derechos de los menores de edad.
+
+10. El haber designado un oficial de proteccién de datos personales.
+
+11. La adopcién reiterada y demostrada de mecanismos y procedimientos internos capaces de
+minimizar el dafio, dirigidos al tratamiento seguro y adecuado de los datos, como, por
+ejemplo: la adopcién de una politica de buenas practicas y gobernanza.
+
+12. La prenta adopcién de medidas correctivas.
+
+13, La proporcionalidad entre la gravedad de la falta y la intensidad de la sanci6n.
+
+Sor
+
+Articulo 63. Prescripcién de la accién. La accién de las infracciones tipificadas en la Ley 81 de
+2019 prescriben en los siguientes plazos:
+1. Las infracciones leves, prescriben en el plazo de un afio.
+2. Las infracciones graves prescriben en el plazo de tres aiios.
+3. Las infracciones muy graves prescriben en el plazo de cinco afios.
+EI plazo de prescripcién de las infracciones comenzara a correr el dia siguiente al que se
+haya cometido la accion que motiva la infraccion.
+Se interrumpe la prescripcién de la infraccién por el inicio de la investigacién o del
+procedimiento sancionador.
+
+Articule 64. Prescripcién de la sancion. Las sanciones impuestas con arreglo a la Ley 81 de 2019
+prescriben en los siguientes plazos:
+1. Las sanciones leves prescriben en un plazo de tres afios.
+2. Las sanciones graves prescriben en un plazo de cinco afios.
+3. Las sanciones muy graves son imprescriptibles.
+El plazo de prescripcién de las sanciones comenzara a correr el dia siguiente al que se haya
+impuesto.
+Se interrumpe la prescripcién de la sancién por cualquier acto que tienda a la ejecucion de
+la resolucién que !a impuso.
+
+ 
+
+ 
+
+18
+No. 29296-A Gaceta Oficial Digital, viernes 28 de mayo de 2021 19
+
+Articulo 65. Entrada en vigencia. Este Decreto Ejecutivo comenzara a regir a partir de su
+promulgacién.
+
+FUNDAMENTO DE DERECHO: Constitucién Politica de la Reptblica; Ley 38 de 31 de julio
+de 2000, Ley 33 de 25 de abril de 2013 y Ley 81 de 26 de marzo de 2019.
+
+COMUNIQUESE Y CUMPLASE.
+
+Dado en la ciudad de Panama, a los (48) dias del mes de Vou de 2021.
+
+ 
+  
+
+LAURENTING CORTJZO COHEN
+President de laKepublica
+
+   
+ 
+
+ 
+
+RIZO JAEN
+
